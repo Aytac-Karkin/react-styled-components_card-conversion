@@ -16,6 +16,7 @@ const StyledTitle = styled.h3`
 const StyledDescription = styled.p`
   margin-top: 0;
   margin-bottom: 4px;
+  // color: red;
 `;
 
 export default function HomePage() {
